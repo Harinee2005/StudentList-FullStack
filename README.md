@@ -22,6 +22,6 @@ A **React.js** application for managing student records, including **CRUD operat
 - **Axios** (for API requests) 🌐
 - **React Router** (for navigation) 🔄
 - **Node.js & Express.js** (for backend - API) 🛠️
-- **MySQL / PostgreSQL** (for Database) 🗄️
+- **MySQL** (for Database) 🗄️
 
 
